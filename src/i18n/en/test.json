@@ -1,0 +1,6 @@
+{
+  "400": "http status 400",
+  "401": "http status 401",
+  "404": "http status 404",
+  "405": "http status 405"
+}
